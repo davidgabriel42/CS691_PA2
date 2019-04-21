@@ -1,0 +1,17 @@
+Q2: 10 most retweeted users
++---------------+-----+
+|       Retweets|count|
++---------------+-----+
+|     @tweetmeme| 2824|
+|      @mashable| 2235|
+|  @RevRunWisdom|  815|
+|    @TechCrunch|  764|
+|   @GuyKawasaki|  587|
+|@huffingtonpost|  373|
+|  @BreakingNews|  310|
+| @Alyssa_Milano|  267|
+|       @nytimes|  244|
+|    @johnalanis|  237|
++---------------+-----+
+only showing top 10 rows
+

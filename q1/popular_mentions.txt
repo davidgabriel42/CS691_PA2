@@ -1,0 +1,27 @@
+Q1: 20 most mentions
++----------------+-----+
+|        Mentions|count|
++----------------+-----+
+|        @addthis| 3498|
+| @DonnieWahlberg|  869|
+|          @gmail|  848|
+|    @OGOchoCinco|  825|
+|   @justinbieber|  779|
+|           @http|  632|
+|     @johncmayer|  623|
+|       @mashable|  613|
+|@souljaboytellem|  610|
+|       @iamdiddy|  575|
+|       @AddToAny|  563|
+|    @adamlambert|  542|
+|         @aplusk|  539|
+|     @foursquare|  528|
+|  @taylorswift13|  527|
+|        @garyvee|  501|
+|   @officialTila|  480|
+|        @nytimes|  479|
+|    @chrisbrogan|  466|
+| @myfabolouslife|  450|
++----------------+-----+
+only showing top 20 rows
+
