@@ -9,9 +9,14 @@ from pyspark.sql.types import *
 #import regexp_extract, col, lit
 from pyspark.sql import *
 import sys
+import os
 
-tweetsFile = "/home/dave/Documents/CS691/assignment2/data/training_set_tweets.txt"
-usersFile = "/home/dave/Documents/CS691/assignment2/data/training_set_users.txt"
+fn1 = sys.argv[1]
+if os.path.exists(fn1):
+	tweetsFile = fn1
+fn2 = sys.argv[2]
+if os.path.exists(fn2):
+	usersFile = fn2
 
 spark = SparkSession.builder.appName("q1").getOrCreate()
 tweets = spark.read.text(tweetsFile)
